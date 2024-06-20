@@ -16,10 +16,10 @@ header {
     padding: 28px 8%;
 }
 .navbar {
-width: 100%;
-display:flex ;
-justify-content: center;
-align-items:center ;
+    width: 100%;
+    display: flex ;
+    justify-content: center;
+    align-items: center ;
 }
 
 #navlogo {
@@ -45,5 +45,5 @@ align-items:center ;
 
 .navitem a:hover {
     color: #ffe100;
-    
+
 }
