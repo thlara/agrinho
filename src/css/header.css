@@ -28,7 +28,7 @@ header {
     color: #e9a209;
 }
 
-.navlist {
+.navlista {
     display: flex;
     list-style: none;
     gap: 40px;
