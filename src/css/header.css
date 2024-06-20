@@ -27,3 +27,23 @@ align-items:center ;
     font-weight: 600;
     color: #e9a209;
 }
+
+.navlist {
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    
+}
+
+.navitem a  {
+    text-decoration: none;
+    color: #1d1d1dad;
+    font-size: 1.2rem;
+    font-weight: 600;
+
+}
+
+.navitem a:hover {
+    color: #ffe100;
+    
+}
