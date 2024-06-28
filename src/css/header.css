@@ -50,4 +50,5 @@ header {
 
 .navitem.ativo{
     color: #1d1d1dad;
+    border-bottom: 3px solid #ffe100;
 }
