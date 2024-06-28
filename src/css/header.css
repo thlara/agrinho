@@ -47,3 +47,7 @@ header {
     color: #e9a209;
 
 }
+
+.navitem.ativo{
+    color: #1d1d1dad;
+}
