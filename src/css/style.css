@@ -1,10 +1,11 @@
-body{
+body {
     background-color: #fff9ea;
-
 }
- section {
+
+section {
     padding: 28px 8%;
- }
+    
+}
 
 .btn-pedido {
     border: none;
@@ -17,5 +18,8 @@ body{
     font-weight: 600;
     box-shadow: 0px 0px 10px 2px #000000;
     transition: background-color 0.3s ease;
-    
+}
+
+.btn-pedido:hover {
+    background-color: #ffe100;
 }
