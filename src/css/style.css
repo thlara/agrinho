@@ -33,7 +33,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #ffcb45;
+    background-color: var(--cor-primaria-5);
     border-radius: 12px;
     padding: 10px 14px;
     font-weight: 600;
@@ -42,5 +42,5 @@ section {
 }
 
 .btn-pedido:hover {
-    background-color: #ffe100;
+    background-color: var(--cor-primaria-4);
 }
