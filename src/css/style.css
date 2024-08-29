@@ -1,3 +1,22 @@
+
+:root{
+    --cor-primaria-1: #969A97;
+    --cor-primaria-2: #D6D1CD;
+    --cor-primaria-3: #E5ECE9;
+    --cor-primaria-4: #C60F7B;
+    --cor-primaria-5: #F90093;
+
+
+    --cor-neutra-1: #fff;
+    --cor-neutra-2: #1d1d1d;
+}  
+
+
+
+
+
+
+
 body {
     background-color: #fff9ea;
 }
