@@ -15,6 +15,25 @@
     font-size: 4rem;
     color: #1d1d1d;
 }
+ #banner {
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    width: 70;
+
+ }
+
+#banner img {
+    width: fit-content;
+    height: 70;
+    margin-bottom: 15px;
+}
+
+
+
+
+
+
 
 .inicial .titulo span {
     color: #ffcb45;
