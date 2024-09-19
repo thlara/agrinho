@@ -19,13 +19,13 @@
     display: flex;
     justify-content: end;
     align-items: end;
-    width: 70%;
+    width: 50%;
 
  }
 
 #banner img {
     width: fit-content;
-    height: 70%;
+    height: 20%;
     margin-bottom: 15px;
 }
 
