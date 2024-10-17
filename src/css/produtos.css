@@ -66,3 +66,26 @@
     color: white;
     cursor: pointer;
 }
+@media (max-width: 1170px) {
+    .produtos {
+        flex-wrap: wrap;
+        justify-content: center;
+
+    }
+    .produto {
+        width: calc(50% - 18px);
+
+    }
+    @media (max-width: 600px) {
+        .produto {
+            width: 100%;
+
+        }
+        .section_subtitulo {
+            text-align: center;
+            
+        }
+    }
+
+
+    }
