@@ -1,3 +1,7 @@
+@import url(header.css);
+@import url(home.css);
+@import url(produtos.css);
+@import url(footer.css);
 
 :root{
     --cor-primaria-1: #969A97;
